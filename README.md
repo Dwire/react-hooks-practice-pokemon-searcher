@@ -33,6 +33,10 @@ can pass data to each other as well as where that information should be stored.
   the `db.json` file if you make a mistake on a POST request, etc. When a new
   Pokemon is added, it should show on the page without having to refresh.
 
+
+  - delete button
+  - update
+
 ## Project Requirements
 
 - components using state and props

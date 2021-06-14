@@ -1340,6 +1340,78 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "test poke",
+      "hp": "100",
+      "sprites": {
+        "front": "noimg",
+        "back": "noimg"
+      },
+      "id": 151
+    },
+    {
+      "name": "another test",
+      "hp": 45,
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "id": 152
+    },
+    {
+      "name": "one more",
+      "hp": 1000,
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "id": 153
+    },
+    {
+      "name": "NICE",
+      "hp": 12,
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "id": 154
+    },
+    {
+      "name": "One last one for the road",
+      "hp": 30,
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "id": 155
+    },
+    {
+      "name": "another test",
+      "hp": 0,
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "id": 156
+    },
+    {
+      "name": "another test",
+      "hp": 0,
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "id": 157
+    },
+    {
+      "name": "really last one",
+      "hp": 16,
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "id": 158
     }
   ]
 }
